@@ -1,7 +1,7 @@
 # Uzziel Ariel
 
 Programmer in C++, Python and JavaScript.
-production for the open source community.
+Contributor to the open source community.
 <ul>
   <li>Current education -> Secondary school</li>
 
