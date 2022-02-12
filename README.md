@@ -8,6 +8,7 @@ Contributor to the open-source community.
   <li>Current education -> Secondary school</li>
   <li>Computer science student</li>
   <li>Aspiring full stack software developer</li>
+  <li>2+ years of programming experience</li>
 </ul>
 <hr/>
 <p align="center">
