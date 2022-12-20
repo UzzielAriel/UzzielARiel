@@ -6,9 +6,8 @@ Web-Developer in HTML, CSS and JavaScript.
 <hr/>
 <h3>About me</h3>
 <ul>
-  <li>Current education -> Secondary school</li>
+  <li>Secondary school</li>
   <li>Computer science student</li>
-  <li>Aspiring full stack software developer</li>
   <li>2+ years of programming experience</li>
 </ul>
 <hr/>
