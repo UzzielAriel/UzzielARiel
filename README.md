@@ -12,5 +12,5 @@ Web-Developer in HTML, CSS and JavaScript.
 </ul>
 <hr/>
 <p align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UzzielAriel)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=UzzielAriel">
 </p>
