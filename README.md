@@ -10,7 +10,7 @@ Contributor to the open-source community. <br/>
 <ul>
   <li>Secondary school</li>
   <li>Computer science student</li>
-  <li>2+ years of programming experience</li>
+  <li>4+ years of programming experience</li>
 </ul>
 
 <hr/>
