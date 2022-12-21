@@ -29,4 +29,5 @@ Contributor to the open-source community. <br/>
 
 <hr/>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=UzzielAriel&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=UzzielAriel&theme=radical"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UzzielAriel&theme=radical"/>
