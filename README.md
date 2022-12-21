@@ -12,5 +12,5 @@ Web-Developer in HTML, CSS and JavaScript.
 </ul>
 <hr/>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=UzzielAriel&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=UzzielAriel&theme=radical">
 </p>
