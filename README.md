@@ -8,7 +8,7 @@ Contributor to the open-source community. <br/>
 ## About me
 
 <ul>
-  <li>Secondary school</li>
+  <li>A Level Student</li>
   <li>Computer science student</li>
   <li>4+ years of programming experience</li>
 </ul>
